@@ -2,3 +2,6 @@ moneysavingexpert.com##body:style(overflow: auto !important;)
 
 parliamentlive.tv##.in.fade.modal-backdrop
 parliamentlive.tv##body:style(overflow: auto !important;)
+
+chriswrites.com##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+chriswrites.com##body:style(overflow: auto !important;)
