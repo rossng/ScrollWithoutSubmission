@@ -5,3 +5,6 @@ parliamentlive.tv##body:style(overflow: auto !important;)
 
 chriswrites.com##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
 chriswrites.com##body:style(overflow: auto !important;)
+
+dr.dk###drcc-overlay
+dr.dk##.noscroll:style(overflow: auto !important;)
