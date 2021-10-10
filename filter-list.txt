@@ -8,3 +8,6 @@ chriswrites.com##body:style(overflow: auto !important;)
 
 dr.dk###drcc-overlay
 dr.dk##.noscroll:style(overflow: auto !important;)
+
+finom.co###cookie-info
+finom.co##body:style(overflow: auto !important;)
