@@ -12,5 +12,5 @@ dr.dk##.noscroll:style(overflow: auto !important;)
 finom.co###cookie-info
 finom.co##body:style(overflow: auto !important;)
 
-lastminute.com###.light.as-oil
+lastminute.com##.light.as-oil
 lastminute.com##body:style(overflow: auto !important;)
