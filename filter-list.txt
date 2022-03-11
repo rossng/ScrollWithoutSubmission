@@ -14,3 +14,5 @@ finom.co##body:style(overflow: auto !important;)
 
 lastminute.com##.light.as-oil
 lastminute.com##body:style(overflow: auto !important;)
+
+postnl.nl##body:style(overflow: auto !important;)
