@@ -19,4 +19,4 @@ postnl.nl##body:style(overflow: auto !important;)
 
 hema.nl##body:style(position: static !important;)
 
-*##.onetrust-cookie-enabled(overflow: auto !important;)
+*##.onetrust-cookie-enabled:style(overflow: auto !important;)
