@@ -18,3 +18,5 @@ lastminute.com##body:style(overflow: auto !important;)
 postnl.nl##body:style(overflow: auto !important;)
 
 hema.nl##body:style(position: static !important;)
+
+*##.onetrust-cookie-enabled(overflow: auto !important;)
