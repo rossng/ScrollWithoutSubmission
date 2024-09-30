@@ -20,3 +20,6 @@ postnl.nl##body:style(overflow: auto !important;)
 hema.nl##body:style(position: static !important;)
 
 *##.onetrust-cookie-enabled:style(overflow: auto !important;)
+
+www.buienradar.nl##.payok__wrap
+www.buienradar.nl##body:style(overflow: auto !important;)
